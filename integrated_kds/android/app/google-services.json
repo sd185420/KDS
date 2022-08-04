@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "436928696091",
+    "firebase_url": "https://digitalkitchenapp-default-rtdb.firebaseio.com",
+    "project_id": "digitalkitchenapp",
+    "storage_bucket": "digitalkitchenapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436928696091:android:4be7d4dc844b6c8865cdbe",
+        "android_client_info": {
+          "package_name": "com.example.integrated_kds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436928696091-iksglr3d0pci9oruuaoqo3lme6m5jsc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX4FhIfOidt48t_YcgAL_q1Npxlh4Y8LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436928696091-iksglr3d0pci9oruuaoqo3lme6m5jsc2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "436928696091-gup2t9ishp1heu16g3jlkl4il6peju2u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled7"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
